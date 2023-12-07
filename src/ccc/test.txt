@@ -1,2 +1,6 @@
 1234
+<<<<<<< HEAD
 333333
+=======
+22222
+>>>>>>> refs/remotes/origin/master
